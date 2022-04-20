@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ### 😎 About Me 
-I'm Andrianiaina Sahobisoa Rolland .
-I want to be a Fullstack Javascript Developer . If you want to help or to reach me , I will put some link 
+I'm Andrianiaina Sahobisoa Rolland . 
+I want to be a Fullstack Javascript Developer even I can code in PHP 😄 . If you want to help or to reach me , I will put some link 
 
 ### 📧 to reach me :
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/) https://www.linkedin.com/in/sahobisoa-rolland-317b77181/
+
+![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=blue) https://www.facebook.com/ansaroll.sa/
 
 ##  GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ansaroll&show_icons=true)

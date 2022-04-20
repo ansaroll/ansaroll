@@ -20,7 +20,7 @@ I'm Andrianiaina Sahobisoa Rolland .
 I want to be a Fullstack Javascript Developer even I can code in PHP 😄 . If you want to help or to reach me , I will put some link 
 
 ### 📧 to reach me :
-![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=Facebook&logoColor=blue) https://www.linkedin.com/in/sahobisoa-rolland-317b77181/
+![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue) https://www.linkedin.com/in/sahobisoa-rolland-317b77181/
 
 ![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=blue) https://www.facebook.com/ansaroll.sa/
 

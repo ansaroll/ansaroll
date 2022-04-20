@@ -27,11 +27,11 @@ I want to be a Fullstack Javascript Developer even I can code in PHP 😄 . If y
 ##  GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ansaroll&show_icons=true)
 
-## Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ansaroll&theme=blue-green)
+<!-- ## Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ansaroll&theme=blue-green) -->
 
-## Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=ansaroll/PHP)
+<!-- ## Contributors Badge
+![Your Repository's Stats](https://contrib.rocks/image?repo=ansaroll/PHP) -->
 
 ##  Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)

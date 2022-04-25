@@ -24,7 +24,7 @@ I want to be a Fullstack Javascript Developer even I can code in PHP 😄 . If y
 
 ![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=blue) https://www.facebook.com/ansaroll.sa/
 
-It's not 100% ready yet, please be kind 😁😁 . Thanks 
+## It's not 100% ready yet, please be kind 😁😁 . Thanks : 
 ![Ansaroll](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=blue) https://ansaroll.github.io/my_portfolio
 
 

@@ -29,7 +29,7 @@ If you want to help or to reach me , I will put some link
 ![Ansaroll](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=blue) https://ansaroll.github.io/my_portfolio
 
 
-##  GitHub Stats
+##  Me on GitHub 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ansaroll&show_icons=true)
 
 <!-- ## Most Used Languages
@@ -38,7 +38,7 @@ If you want to help or to reach me , I will put some link
 <!-- ## Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=ansaroll/PHP) -->
 
-##  Random Joke Generator
+##  Random Joke 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ##  Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ansaroll)

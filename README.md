@@ -32,8 +32,8 @@ If you want to help or to reach me , I will put some link
 ##  Me on GitHub 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ansaroll&show_icons=true)
 
-## Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ansaroll&theme=blue-green) 
+<!-- ## Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ansaroll&theme=blue-green)  -->
 
 <!-- ## Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=ansaroll/PHP) -->

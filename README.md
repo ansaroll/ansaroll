@@ -30,9 +30,9 @@ If you want to help or to reach me , I will put some link
 <!-- 
 ## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ansaroll&theme=blue-green)   -->
-
+<!-- 
 ## Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=ansaroll/PHP)
+![Your Repository's Stats](https://contrib.rocks/image?repo=ansaroll/PHP) -->
 
 ##  Random Joke 
 ![Jokes Card](https://readme-jokes.vercel.app/api)

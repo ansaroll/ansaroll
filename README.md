@@ -27,12 +27,12 @@ If you want to help or to reach me , I will put some link
 
 ### It's not 100% ready yet, please be kind 😁😁 . Thanks : 
 ![Ansaroll](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=blue) https://ansaroll.github.io/my_portfolio
-
+<!-- 
 ## Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ansaroll&theme=blue-green)  
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ansaroll&theme=blue-green)   -->
 
-<!-- ## Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=ansaroll/PHP) -->
+## Contributors Badge
+![Your Repository's Stats](https://contrib.rocks/image?repo=ansaroll/PHP)
 
 ##  Random Joke 
 ![Jokes Card](https://readme-jokes.vercel.app/api)

@@ -1,4 +1,4 @@
-## Hi there 👋 , I'm Ansaroll [ Javascript Learner ]
+## Hi there 👋 , I'm Ansaroll 
 
 <!--
 **ansaroll/ansaroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 😎 About Me 
 I'm Andrianiaina Sahobisoa Rolland alias ANSAROLL. 
-🌱 I’m currently learning because I want to be a Fullstack Javascript Developer even I can code in PHP 😄 .
+🌱 I’m currently a React Developer even I can code in PHP 😄 .
 If you want to help or to reach me , I will put some link 
 
 ### 📧 to reach me :

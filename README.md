@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&theme=gradient&color=timeAuto&height=300&section=header&text=Make%20it%20Happen&fontSize=90&animation=fadeIn)
 
-<p align=center>I'm Andrianiaina Sahobisoa Rolland alias AnSaRoll. <br/> <p fontSize=30><b> React Developer </b> </p> </p>
+<p align=center>I'm Andrianiaina Sahobisoa Rolland alias AnSaRoll. <br/> <b> React Developer </b> </p>
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=ansaroll&theme=garden)](https://git.io/streak-stats)
   <p align="center"> -->

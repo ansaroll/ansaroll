@@ -9,8 +9,8 @@
   </p>
   
   <p align='center'>
-  <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-546f34?style=for-the-badge&logo=javascript&logoColor=white'/>
-  <img alt='Typescript' src='https://img.shields.io/badge/Typescript-fr34de?style=for-the-badge&logo=typescript&logoColor=white'/>
+  <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-bbd4ff?style=for-the-badge&logo=javascript&logoColor=white'/>
+  <img alt='Typescript' src='https://img.shields.io/badge/Typescript-008080?style=for-the-badge&logo=typescript&logoColor=white'/>
   <img alt='React' src='https://img.shields.io/badge/React-008080?style=for-the-badge&logo=react&logoColor=white'/>
   <img alt='PHP' src='https://img.shields.io/badge/PHP-redf34?style=for-the-badge&logo=php&logoColor=white'/>
   </p>

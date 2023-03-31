@@ -11,13 +11,11 @@
 <img src='https://komarev.com/ghpvc/?username=ansaroll&color=008080'>
 </strong> <p>
 
-### 📧 to reach me :
+  <p align=center>
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue) https://www.linkedin.com/in/sahobisoa-rolland-317b77181/
 
 ![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=blue) https://www.facebook.com/ansaroll.sa/
 
-## Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=ansaroll)
-
 ##  Random Joke 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+</p>
